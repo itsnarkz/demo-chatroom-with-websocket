@@ -1,0 +1,17 @@
+.chat-page {
+}
+
+#username-page-form {
+    display: flex;
+}
+
+#chat-page-form {
+    display: flex;
+}
+
+button {
+    margin: 0 0 0 20px;
+}
+.hidden {
+    display: none;
+}
